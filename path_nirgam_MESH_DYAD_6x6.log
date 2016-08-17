@@ -1,36 +1,36 @@
 
- 2 West 1 South 7
- 3 West 2 West 1 South 7 South 13
- 4 West 3 West 2 West 1 South 7 South 13 South 19
- 5 West 4 West 3 South 9 South 15 South
- 6 West 5 West 4 West 3 South 9 South
- 7 East 8 North 2
 
- 9 West 8 South 14
- 10 West 9 West 8 South 14 South 20
- 11 West 10 West
- 12 West 11 West
- 13 East 14 East 15 North 9 North 3
- 14 East 15 North 9
+ 3 East 4 East 5 South 11 South 17
 
- 16 West 15 South 21
- 17 West 16 West
- 18 West 17 West
- 19 East 20 East 21 East 22 North 16 North 10 North 4
- 20 East 21 East 22 North 16 North 10
- 21 East 22 North 16
+ 5 West 4 West 3 South 9
 
- 23 West 22 South 28
- 24 West 23 West 22 South 28 South 34
- 25 East 26 East 27 East 28 North 22 North 16 North 10 North 4 East 5
- 26 East 27 East 28 North 22 North 16 North 10 East 11
- 27 East 28 East 29 North 23 North 17
- 28 East 29 North 23
+ 7 South 13 South 19 South 25
 
- 30 West 29 South 35
- 31 East 32 East 33 East 34 North 28 North 22 North 16 North 10 North 4 East 5 East 6
- 32 East 33 East 34 North 28 North 22 North 16 North 10 East 11 East 12
- 33 East 34 East 35 East 36 North 30 North 24 North 18
- 34 East 35 East 36 North 30 North 24
- 35 East 36 North 30
+ 9 East 10 East 11 North 5
+
+ 11 West 10 West 9 South 15 South 21
+
+
+
+ 15 East 16 East
+
+ 17 West 16 West 15 North 9 North 3
+ 18 West 17 South 23 South 29 South 35
+
+
+ 21 East 22 East 23 East 24 North 18 North 1
+
+ 23 West 22 West 21 South 27
+
+ 25 North 19 North 13 North 7
+
+ 27 East 28 East 29 North 23
+
+ 29 West 28 West 27 North 21 North 15
+
+
+
+ 33 West 32 North 26 North 20 North 14 North 8 North 1
+
+ 35 East 36 North 30 North 24 North 18
 

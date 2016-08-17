@@ -1,36 +1,36 @@
 
- 2 West 1 South 7
- 3 South 9 South 15 South 21 South 27 South 33 West 32 West 31 North 25 North 19 North 13
- 4 West 3 South 9 South 15 South 21 South 27 South 33 West 32 West 31 North 25 North 19
- 5 South 11 South 17 South 23 South 29 South 35 West 34 West 33 North 27 North 21 West 20 West 19 South 25
- 6 West 5 South 11 South 17 South 23 South 29 South 35 West 34 West 33 North 27 West 26 West 25 South 31
- 7 North 1 East 2
 
- 9 South 15 South 21 South 27 South 33 West 32 North 26 North 20 North 14
- 10 West 9 South 15 South 21 South 27 South 33 West 32 North 26 North 20
- 11 South 17 South 23 South 29 South 35 West 34 West 33 North 27 North 21 West 20 South 26
- 12 West 11 South 17 South 23 South 29 South 35 West 34 West 33 North 27 West 26 South 32
- 13 North 7 North 1 East 2 East 3
- 14 North 8 East 9
+ 3 South 9 South 15 East 16 East 17
 
- 16 West 15 South 21
- 17 South 23 South 29 South 35 West 34 West 33 North 27
- 18 West 17 South 23 South 29 South 35 West 34 West 33
- 19 North 13 North 7 North 1 East 2 East 3 East 4
- 20 North 14 North 8 East 9 East 10
- 21 North 15 East 16
+ 5 South 11 South 17 South 23 South 29 South 35 West 34 West 33 North 27 North 21 North 15 North 9
 
- 23 South 29 South 35 West 34 North 28
- 24 West 23 South 29 South 35 West 34
- 25 North 19 North 13 North 7 North 1 East 2 East 3 East 4 East 5
- 26 North 20 North 14 North 8 East 9 East 10 East 11
- 27 North 21 North 15 East 16 East 17
- 28 North 22 East 23
+ 7 South 13 South 19 South 25
 
- 30 West 29 South 35
- 31 North 25 North 19 North 13 North 7 North 1 East 2 East 3 East 4 East 5 East 6
- 32 North 26 North 20 North 14 North 8 East 9 East 10 East 11 East 12
- 33 North 27 North 21 North 15 East 16 East 17 East 18
- 34 North 28 North 22 East 23 East 24
- 35 North 29 East 30
+ 9 North 3 East 4 East 5
+
+ 11 South 17 South 23 South 29 South 35 West 34 West 33 North 27 North 21
+
+
+
+ 15 South 21 South 27 East 28 East 29
+
+ 17 North 11 North 5 West 4 West 3
+ 18 West 17 South 23 South 29 South 35
+
+
+ 21 North 15 North 9 East 10 East 11 East 1
+
+ 23 South 29 South 35 West 34 West 33 North 27
+
+ 25 North 19 North 13 North 7
+
+ 27 North 21 East 22 East 23
+
+ 29 North 23 North 17 North 11 West 10 West 9 South 15
+
+
+
+ 33 North 27 North 21 North 15 North 9 North 3 West 1
+
+ 35 North 29 North 23 North 17 East 18
 
