@@ -1,16 +1,16 @@
 
- 2 West 1 South 5
- 3 West 2 South 6 West 5 South 9
+ 2 East 3
+ 3 West 2 West 1 South 5 South 9
  4 West 3 South 7 West 6 South 10 West 9 South 13
  5 North 1 East 2
 
  7 South 11 West 10
- 8 South 12 South 16 West 15 West 14
- 9 North 5 East 6 North 2 East 3
- 10 North 6 East 7
+ 8 South 12 West 11 West 10 South 14
+ 9 North 5 East 6 East 7 North 3
+ 10 East 11 North 7
 
- 12 West 11 South 15
+ 12 South 16 West 15
  13 East 14 East 15 East 16 North 12 North 8 North 4
- 14 North 10 East 11 East 12 North 8
- 15 North 11 North 7 North 3
+ 14 North 10 North 6 East 7 East 8
+ 15 West 14
 
